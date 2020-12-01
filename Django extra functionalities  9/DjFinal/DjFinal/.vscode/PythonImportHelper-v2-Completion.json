@@ -1,0 +1,439 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {
+            "value": "\n```python\nimport os\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls.conf",
+        "description": "django.urls.conf",
+        "isExtraImport": true,
+        "detail": "django.urls.conf",
+        "documentation": {
+            "value": "\n```python\nimport django.urls.conf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "RedirectView",
+        "importPath": "django.views.generic.base",
+        "description": "django.views.generic.base",
+        "isExtraImport": true,
+        "detail": "django.views.generic.base",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic.base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {
+            "value": "\n```python\nimport django.conf.urls.static\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "settings",
+        "importPath": "DjFinal",
+        "description": "DjFinal",
+        "isExtraImport": true,
+        "detail": "DjFinal",
+        "documentation": {
+            "value": "\n```python\nimport DjFinal\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.wsgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'd&vhj@poofo+7!&)9347^b0v*!m+!5&7l7y%qq)im+o@%#k@jm'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import BASE_DIR\n```\n\n```python\n\n\n```\n\n```python\nBASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'd&vhj@poofo+7!&)9347^b0v*!m+!5&7l7y%qq)im+o@%#k@jm'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "SECRET_KEY = 'd&vhj@poofo+7!&)9347^b0v*!m+!5&7l7y%qq)im+o@%#k@jm'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'registration',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import SECRET_KEY\n```\n\n```python\n\n\n```\n\n```python\nSECRET_KEY = 'd&vhj@poofo+7!&)9347^b0v*!m+!5&7l7y%qq)im+o@%#k@jm'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'registration',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'registration',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import DEBUG\n```\n\n```python\n\n\n```\n\n```python\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'registration',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'registration',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import ALLOWED_HOSTS\n```\n\n```python\n\n\n```\n\n```python\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'registration',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'registration',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'college',\n    'crispy_forms',",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import INSTALLED_APPS\n```\n\n```python\n\n\n```\n\n```python\nINSTALLED_APPS = [\n    'registration',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'college',\n    'crispy_forms',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'DjFinal.urls'",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import MIDDLEWARE\n```\n\n```python\n\n\n```\n\n```python\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'DjFinal.urls'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "ROOT_URLCONF = 'DjFinal.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import ROOT_URLCONF\n```\n\n```python\n\n\n```\n\n```python\nROOT_URLCONF = 'DjFinal.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import TEMPLATES\n```\n\n```python\n\n\n```\n\n```python\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "WSGI_APPLICATION = 'DjFinal.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/2.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import WSGI_APPLICATION\n```\n\n```python\n\n\n```\n\n```python\nWSGI_APPLICATION = 'DjFinal.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/2.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/2.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import DATABASES\n```\n\n```python\n\n\n```\n\n```python\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/2.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import AUTH_PASSWORD_VALIDATORS\n```\n\n```python\n\n\n```\n\n```python\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS = 3\nEMAIL_HOST = 'smtp.gmail.com'",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import LANGUAGE_CODE\n```\n\n```python\n\n\n```\n\n```python\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS = 3\nEMAIL_HOST = 'smtp.gmail.com'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "TIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS = 3\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import TIME_ZONE\n```\n\n```python\n\n\n```\n\n```python\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS = 3\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS = 3\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587\nEMAIL_USE_TLS = True",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import USE_I18N\n```\n\n```python\n\n\n```\n\n```python\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS = 3\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587\nEMAIL_USE_TLS = True\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS = 3\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = 'iamdotafan1@gmail.com'",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import USE_L10N\n```\n\n```python\n\n\n```\n\n```python\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS = 3\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = 'iamdotafan1@gmail.com'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS = 3\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = 'iamdotafan1@gmail.com'\nEMAIL_HOST_PASSWORD = 'swapwagh@1234'",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import USE_TZ\n```\n\n```python\n\n\n```\n\n```python\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS = 3\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = 'iamdotafan1@gmail.com'\nEMAIL_HOST_PASSWORD = 'swapwagh@1234'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS = 3\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = 'iamdotafan1@gmail.com'\nEMAIL_HOST_PASSWORD = 'swapwagh@1234'\nLOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import STATIC_URL\n```\n\n```python\n\n\n```\n\n```python\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS = 3\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = 'iamdotafan1@gmail.com'\nEMAIL_HOST_PASSWORD = 'swapwagh@1234'\nLOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ACCOUNT_ACTIVATION_DAYS",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "ACCOUNT_ACTIVATION_DAYS = 3\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = 'iamdotafan1@gmail.com'\nEMAIL_HOST_PASSWORD = 'swapwagh@1234'\nLOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/'",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import ACCOUNT_ACTIVATION_DAYS\n```\n\n```python\n\n\n```\n\n```python\nACCOUNT_ACTIVATION_DAYS = 3\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = 'iamdotafan1@gmail.com'\nEMAIL_HOST_PASSWORD = 'swapwagh@1234'\nLOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "EMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = 'iamdotafan1@gmail.com'\nEMAIL_HOST_PASSWORD = 'swapwagh@1234'\nLOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/'",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import EMAIL_HOST\n```\n\n```python\n\n\n```\n\n```python\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = 'iamdotafan1@gmail.com'\nEMAIL_HOST_PASSWORD = 'swapwagh@1234'\nLOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "EMAIL_PORT = 587\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = 'iamdotafan1@gmail.com'\nEMAIL_HOST_PASSWORD = 'swapwagh@1234'\nLOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/'",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import EMAIL_PORT\n```\n\n```python\n\n\n```\n\n```python\nEMAIL_PORT = 587\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = 'iamdotafan1@gmail.com'\nEMAIL_HOST_PASSWORD = 'swapwagh@1234'\nLOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "EMAIL_USE_TLS = True\nEMAIL_HOST_USER = 'iamdotafan1@gmail.com'\nEMAIL_HOST_PASSWORD = 'swapwagh@1234'\nLOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/'",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import EMAIL_USE_TLS\n```\n\n```python\n\n\n```\n\n```python\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = 'iamdotafan1@gmail.com'\nEMAIL_HOST_PASSWORD = 'swapwagh@1234'\nLOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "EMAIL_HOST_USER = 'iamdotafan1@gmail.com'\nEMAIL_HOST_PASSWORD = 'swapwagh@1234'\nLOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/'",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import EMAIL_HOST_USER\n```\n\n```python\n\n\n```\n\n```python\nEMAIL_HOST_USER = 'iamdotafan1@gmail.com'\nEMAIL_HOST_PASSWORD = 'swapwagh@1234'\nLOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = 'swapwagh@1234'\nLOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/'",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import EMAIL_HOST_PASSWORD\n```\n\n```python\n\n\n```\n\n```python\nEMAIL_HOST_PASSWORD = 'swapwagh@1234'\nLOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/'",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import LOGIN_REDIRECT_URL\n```\n\n```python\n\n\n```\n\n```python\nLOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PROJECT_ROOT",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "PROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/'",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import PROJECT_ROOT\n```\n\n```python\n\n\n```\n\n```python\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "MEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/'",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import MEDIA_ROOT\n```\n\n```python\n\n\n```\n\n```python\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "MEDIA_URL = '/media/'",
+        "detail": "settings",
+        "documentation": {
+            "value": "\n```python\nfrom settings import MEDIA_URL\n```\n\n```python\n\n\n```\n\n```python\nMEDIA_URL = '/media/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "urls",
+        "description": "urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('accounts/', include('registration.backends.default.urls')),\n    path('college/', include('college.urls')),\n    path('', RedirectView.as_view(url=\"college/\")),\n] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "urls",
+        "documentation": {
+            "value": "\n```python\nfrom urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('accounts/', include('registration.backends.default.urls')),\n    path('college/', include('college.urls')),\n    path('', RedirectView.as_view(url=\"college/\")),\n] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "wsgi",
+        "description": "wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "wsgi",
+        "documentation": {
+            "value": "\n```python\nfrom wsgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_wsgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]

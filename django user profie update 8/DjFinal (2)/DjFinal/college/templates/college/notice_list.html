@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block content %}
+<br><br>
+<form>
+<input value="{{ request.GET.si }}" type="text" name="si" />
+<input type="submit" value="Search" />
+</form>
+{% for n1 in notice_list %}
+<h1>{{n1.subject}} :: {{n1.cr_date | date:"d/m/y"}} 
+<a href='/college/notice/{{n1.id}}'>Read More</a>
+</h1>
+{% endfor %}
+{% endblock %}

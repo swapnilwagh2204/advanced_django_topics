@@ -1,0 +1,640 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {
+            "value": "\n```python\nimport os\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.asgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.asgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {
+            "value": "\n```python\nimport pathlib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {
+            "value": "\n```python\nimport pathlib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.wsgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.wsgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {
+            "value": "\n```python\nimport sys\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "proj.app1.app1.asgi",
+        "description": "proj.app1.app1.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "proj.app1.app1.asgi",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.asgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_asgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "proj.app1.app1.settings",
+        "description": "proj.app1.app1.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'y_a)%ad&nxb$_b9-jd+a_x52%s2ht1j0h6co%0dsx&ar69s&zy'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "proj.app1.app1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.settings import BASE_DIR\n```\n\n```python\n\n\n```\n\n```python\nBASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'y_a)%ad&nxb$_b9-jd+a_x52%s2ht1j0h6co%0dsx&ar69s&zy'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "proj.app1.app1.settings",
+        "description": "proj.app1.app1.settings",
+        "peekOfCode": "SECRET_KEY = 'y_a)%ad&nxb$_b9-jd+a_x52%s2ht1j0h6co%0dsx&ar69s&zy'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "proj.app1.app1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.settings import SECRET_KEY\n```\n\n```python\n\n\n```\n\n```python\nSECRET_KEY = 'y_a)%ad&nxb$_b9-jd+a_x52%s2ht1j0h6co%0dsx&ar69s&zy'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "proj.app1.app1.settings",
+        "description": "proj.app1.app1.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "proj.app1.app1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.settings import DEBUG\n```\n\n```python\n\n\n```\n\n```python\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "proj.app1.app1.settings",
+        "description": "proj.app1.app1.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]",
+        "detail": "proj.app1.app1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.settings import ALLOWED_HOSTS\n```\n\n```python\n\n\n```\n\n```python\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "proj.app1.app1.settings",
+        "description": "proj.app1.app1.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',",
+        "detail": "proj.app1.app1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.settings import INSTALLED_APPS\n```\n\n```python\n\n\n```\n\n```python\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "proj.app1.app1.settings",
+        "description": "proj.app1.app1.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'app1.urls'",
+        "detail": "proj.app1.app1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.settings import MIDDLEWARE\n```\n\n```python\n\n\n```\n\n```python\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'app1.urls'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "proj.app1.app1.settings",
+        "description": "proj.app1.app1.settings",
+        "peekOfCode": "ROOT_URLCONF = 'app1.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "proj.app1.app1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.settings import ROOT_URLCONF\n```\n\n```python\n\n\n```\n\n```python\nROOT_URLCONF = 'app1.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "proj.app1.app1.settings",
+        "description": "proj.app1.app1.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "proj.app1.app1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.settings import TEMPLATES\n```\n\n```python\n\n\n```\n\n```python\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "proj.app1.app1.settings",
+        "description": "proj.app1.app1.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'app1.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "proj.app1.app1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.settings import WSGI_APPLICATION\n```\n\n```python\n\n\n```\n\n```python\nWSGI_APPLICATION = 'app1.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "proj.app1.app1.settings",
+        "description": "proj.app1.app1.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "proj.app1.app1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.settings import DATABASES\n```\n\n```python\n\n\n```\n\n```python\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "proj.app1.app1.settings",
+        "description": "proj.app1.app1.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "proj.app1.app1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.settings import AUTH_PASSWORD_VALIDATORS\n```\n\n```python\n\n\n```\n\n```python\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "proj.app1.app1.settings",
+        "description": "proj.app1.app1.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "proj.app1.app1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.settings import LANGUAGE_CODE\n```\n\n```python\n\n\n```\n\n```python\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "proj.app1.app1.settings",
+        "description": "proj.app1.app1.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "proj.app1.app1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.settings import TIME_ZONE\n```\n\n```python\n\n\n```\n\n```python\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "proj.app1.app1.settings",
+        "description": "proj.app1.app1.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "proj.app1.app1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.settings import USE_I18N\n```\n\n```python\n\n\n```\n\n```python\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "proj.app1.app1.settings",
+        "description": "proj.app1.app1.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "proj.app1.app1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.settings import USE_L10N\n```\n\n```python\n\n\n```\n\n```python\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "proj.app1.app1.settings",
+        "description": "proj.app1.app1.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "proj.app1.app1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.settings import USE_TZ\n```\n\n```python\n\n\n```\n\n```python\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "proj.app1.app1.settings",
+        "description": "proj.app1.app1.settings",
+        "peekOfCode": "STATIC_URL = '/static/'",
+        "detail": "proj.app1.app1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.settings import STATIC_URL\n```\n\n```python\n\n\n```\n\n```python\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "proj.app1.app1.urls",
+        "description": "proj.app1.app1.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n]",
+        "detail": "proj.app1.app1.urls",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('admin/', admin.site.urls),\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "proj.app1.app1.wsgi",
+        "description": "proj.app1.app1.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "proj.app1.app1.wsgi",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.app1.wsgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_wsgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "proj.app1.manage",
+        "description": "proj.app1.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'app1.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "proj.app1.manage",
+        "documentation": {
+            "value": "\n```python\nfrom proj.app1.manage import main\n```\n\n```python\n\n\n```\n\n```python\ndef main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'app1.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "proj.proj.asgi",
+        "description": "proj.proj.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "proj.proj.asgi",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.asgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_asgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "proj.proj.settings",
+        "description": "proj.proj.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'e(t9^^4i0!q#@gf5%m)=nx8d#%hfh!gz8^&%o_2+0#51wfdy5m'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "proj.proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.settings import BASE_DIR\n```\n\n```python\n\n\n```\n\n```python\nBASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'e(t9^^4i0!q#@gf5%m)=nx8d#%hfh!gz8^&%o_2+0#51wfdy5m'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "proj.proj.settings",
+        "description": "proj.proj.settings",
+        "peekOfCode": "SECRET_KEY = 'e(t9^^4i0!q#@gf5%m)=nx8d#%hfh!gz8^&%o_2+0#51wfdy5m'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "proj.proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.settings import SECRET_KEY\n```\n\n```python\n\n\n```\n\n```python\nSECRET_KEY = 'e(t9^^4i0!q#@gf5%m)=nx8d#%hfh!gz8^&%o_2+0#51wfdy5m'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "proj.proj.settings",
+        "description": "proj.proj.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "proj.proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.settings import DEBUG\n```\n\n```python\n\n\n```\n\n```python\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "proj.proj.settings",
+        "description": "proj.proj.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app1'",
+        "detail": "proj.proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.settings import ALLOWED_HOSTS\n```\n\n```python\n\n\n```\n\n```python\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app1'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "proj.proj.settings",
+        "description": "proj.proj.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app1'\n]\nMIDDLEWARE = [",
+        "detail": "proj.proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.settings import INSTALLED_APPS\n```\n\n```python\n\n\n```\n\n```python\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app1'\n]\nMIDDLEWARE = [\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "proj.proj.settings",
+        "description": "proj.proj.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'proj.urls'",
+        "detail": "proj.proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.settings import MIDDLEWARE\n```\n\n```python\n\n\n```\n\n```python\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'proj.urls'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "proj.proj.settings",
+        "description": "proj.proj.settings",
+        "peekOfCode": "ROOT_URLCONF = 'proj.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "proj.proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.settings import ROOT_URLCONF\n```\n\n```python\n\n\n```\n\n```python\nROOT_URLCONF = 'proj.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "proj.proj.settings",
+        "description": "proj.proj.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "proj.proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.settings import TEMPLATES\n```\n\n```python\n\n\n```\n\n```python\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "proj.proj.settings",
+        "description": "proj.proj.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'proj.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "proj.proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.settings import WSGI_APPLICATION\n```\n\n```python\n\n\n```\n\n```python\nWSGI_APPLICATION = 'proj.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "proj.proj.settings",
+        "description": "proj.proj.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "proj.proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.settings import DATABASES\n```\n\n```python\n\n\n```\n\n```python\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "proj.proj.settings",
+        "description": "proj.proj.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "proj.proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.settings import AUTH_PASSWORD_VALIDATORS\n```\n\n```python\n\n\n```\n\n```python\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "proj.proj.settings",
+        "description": "proj.proj.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "proj.proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.settings import LANGUAGE_CODE\n```\n\n```python\n\n\n```\n\n```python\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "proj.proj.settings",
+        "description": "proj.proj.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "proj.proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.settings import TIME_ZONE\n```\n\n```python\n\n\n```\n\n```python\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "proj.proj.settings",
+        "description": "proj.proj.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "proj.proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.settings import USE_I18N\n```\n\n```python\n\n\n```\n\n```python\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "proj.proj.settings",
+        "description": "proj.proj.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "proj.proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.settings import USE_L10N\n```\n\n```python\n\n\n```\n\n```python\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "proj.proj.settings",
+        "description": "proj.proj.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "proj.proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.settings import USE_TZ\n```\n\n```python\n\n\n```\n\n```python\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "proj.proj.settings",
+        "description": "proj.proj.settings",
+        "peekOfCode": "STATIC_URL = '/static/'",
+        "detail": "proj.proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.settings import STATIC_URL\n```\n\n```python\n\n\n```\n\n```python\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "proj.proj.urls",
+        "description": "proj.proj.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('index/',include('app.urls1'))\n]",
+        "detail": "proj.proj.urls",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('index/',include('app.urls1'))\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "proj.proj.wsgi",
+        "description": "proj.proj.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "proj.proj.wsgi",
+        "documentation": {
+            "value": "\n```python\nfrom proj.proj.wsgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_wsgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "proj.manage",
+        "description": "proj.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'proj.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "proj.manage",
+        "documentation": {
+            "value": "\n```python\nfrom proj.manage import main\n```\n\n```python\n\n\n```\n\n```python\ndef main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'proj.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]
