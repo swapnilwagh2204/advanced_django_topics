@@ -1,6 +1,7 @@
 # Middleware:
 # it is frameworks of hooks into djangos request response processing
 from django.conf import settings
+import django.shortcuts
 
 # its light, low level plugin system globally altering djangos input or output
 # each middleware conponent is reponsible for doing some specific functions
@@ -62,3 +63,51 @@ from django.conf import settings
 
 
 # __call__ hhar request ke sath chalta hai...lekin __init__ sirf web server jab start hota haii tab chalta hai...
+
+# activating middleware :
+# add middleware into django settings
+
+# class.middlewares.Mymiddleware
+
+
+# middlewares hooks
+# special methods for class based middlewares(not used for function based views)
+
+# process_view(request,view_func,view_args,view_kwargs)--> it is called just before django calls  the view.
+
+# it should either return none or HttpResponse objects
+
+# if it returns none ,django will django will continue to processing this request ,executing any other process_view() middleware and then  the appropriate view.
+
+# if it returns HttpResponse object ,djngo wont bother calling the  appropriate view ,it will apply response middleware to that HttpResponse and return the result.
+
+# process_exception(request,exception)- django calls  process_exception() when a  view raises an exception.
+
+# it should return  either none or an HttpResponse object
+
+# if it returns HttpResponse object ,the template response and  response middleware will be applied and  the resulting response returned to the browser.
+# otherwise ,default exception handling kicks in .
+
+# where request = it is an HttpRequest object
+# exception = it is an exception object raised  by view function
+
+
+# Note - middleware are run in reverse order during the response phase, which includes process execution. if an exception  middleware  returns a response, the process_exception methods of the middleware classes  above that middleware wont be called at all.
+
+
+# process_template_response(request, response)
+# this method is called just after the view  has finished  executing,if the response instance has  a render method,indicating that it  is  a templateresponse or equivalent.
+
+# it must return respnseobject  that implements a render method.
+
+# request=it is an HttpResponse object
+# response=it is an templateresponse object returned by a django view or  by middleware.
+
+
+# templateresponse:
+
+# templateresponse--> it  is a subclass of simpletemplatesresponse that knows about the current HttpRequest.
+# A templateresponse objct can be used anywhere that a normal django.http.HttpRESPONSE can be used.it is also used as alternative to calling render.
+
+# method:
+# __init__(request,template,context=none,)
