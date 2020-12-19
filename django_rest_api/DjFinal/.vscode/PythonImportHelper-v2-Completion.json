@@ -1,0 +1,1535 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {
+            "value": "\n```python\nimport django.db.models.deletion\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CASCADE",
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "isExtraImport": true,
+        "detail": "django.db.models.deletion",
+        "documentation": {
+            "value": "\n```python\nimport django.db.models.deletion\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {
+            "value": "\n```python\nimport django.conf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {
+            "value": "\n```python\nimport django.conf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "django.core.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "detail": "django.core.validators",
+        "documentation": {
+            "value": "\n```python\nimport django.core.validators\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MinValueValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {
+            "value": "\n```python\nimport django.core.validators\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MaxValueValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {
+            "value": "\n```python\nimport django.core.validators\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "\\",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {
+            "value": "\n```python\nimport django.core.validators\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Notice",
+        "importPath": "college.models",
+        "description": "college.models",
+        "isExtraImport": true,
+        "detail": "college.models",
+        "documentation": {
+            "value": "\n```python\nimport college.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Branch",
+        "importPath": "college.models",
+        "description": "college.models",
+        "isExtraImport": true,
+        "detail": "college.models",
+        "documentation": {
+            "value": "\n```python\nimport college.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Profile",
+        "importPath": "college.models",
+        "description": "college.models",
+        "isExtraImport": true,
+        "detail": "college.models",
+        "documentation": {
+            "value": "\n```python\nimport college.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Question",
+        "importPath": "college.models",
+        "description": "college.models",
+        "isExtraImport": true,
+        "detail": "college.models",
+        "documentation": {
+            "value": "\n```python\nimport college.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Branch",
+        "importPath": "college.models",
+        "description": "college.models",
+        "isExtraImport": true,
+        "detail": "college.models",
+        "documentation": {
+            "value": "\n```python\nimport college.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Notice",
+        "importPath": "college.models",
+        "description": "college.models",
+        "isExtraImport": true,
+        "detail": "college.models",
+        "documentation": {
+            "value": "\n```python\nimport college.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Profile",
+        "importPath": "college.models",
+        "description": "college.models",
+        "isExtraImport": true,
+        "detail": "college.models",
+        "documentation": {
+            "value": "\n```python\nimport college.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Notice",
+        "importPath": "college.models",
+        "description": "college.models",
+        "isExtraImport": true,
+        "detail": "college.models",
+        "documentation": {
+            "value": "\n```python\nimport college.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Profile",
+        "importPath": "college.models",
+        "description": "college.models",
+        "isExtraImport": true,
+        "detail": "college.models",
+        "documentation": {
+            "value": "\n```python\nimport college.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Question",
+        "importPath": "college.models",
+        "description": "college.models",
+        "isExtraImport": true,
+        "detail": "college.models",
+        "documentation": {
+            "value": "\n```python\nimport college.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Branch",
+        "importPath": "college.models",
+        "description": "college.models",
+        "isExtraImport": true,
+        "detail": "college.models",
+        "documentation": {
+            "value": "\n```python\nimport college.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ModelAdmin",
+        "importPath": "django.contrib.admin.options",
+        "description": "django.contrib.admin.options",
+        "isExtraImport": true,
+        "detail": "django.contrib.admin.options",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.admin.options\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {
+            "value": "\n```python\nimport django.apps\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "routers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch.dispatcher",
+        "description": "django.dispatch.dispatcher",
+        "isExtraImport": true,
+        "detail": "django.dispatch.dispatcher",
+        "documentation": {
+            "value": "\n```python\nimport django.dispatch.dispatcher\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {
+            "value": "\n```python\nimport django.db.models.signals\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {
+            "value": "\n```python\nimport django.test\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls.conf",
+        "description": "django.urls.conf",
+        "isExtraImport": true,
+        "detail": "django.urls.conf",
+        "documentation": {
+            "value": "\n```python\nimport django.urls.conf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls.conf",
+        "description": "django.urls.conf",
+        "isExtraImport": true,
+        "detail": "django.urls.conf",
+        "documentation": {
+            "value": "\n```python\nimport django.urls.conf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "views",
+        "importPath": "college",
+        "description": "college",
+        "isExtraImport": true,
+        "detail": "college",
+        "documentation": {
+            "value": "\n```python\nimport college\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "RedirectView",
+        "importPath": "django.views.generic.base",
+        "description": "django.views.generic.base",
+        "isExtraImport": true,
+        "detail": "django.views.generic.base",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic.base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TemplateView",
+        "importPath": "django.views.generic.base",
+        "description": "django.views.generic.base",
+        "isExtraImport": true,
+        "detail": "django.views.generic.base",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic.base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "RedirectView",
+        "importPath": "django.views.generic.base",
+        "description": "django.views.generic.base",
+        "isExtraImport": true,
+        "detail": "django.views.generic.base",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic.base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "obtain_jwt_token",
+        "importPath": "rest_framework_jwt.views",
+        "description": "rest_framework_jwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_jwt.views",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework_jwt.views\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "method_decorator",
+        "importPath": "django.utils.decorators",
+        "description": "django.utils.decorators",
+        "isExtraImport": true,
+        "detail": "django.utils.decorators",
+        "documentation": {
+            "value": "\n```python\nimport django.utils.decorators\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth.decorators\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic.list",
+        "description": "django.views.generic.list",
+        "isExtraImport": true,
+        "detail": "django.views.generic.list",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic.list\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DetailView",
+        "importPath": "django.views.generic.detail",
+        "description": "django.views.generic.detail",
+        "isExtraImport": true,
+        "detail": "django.views.generic.detail",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic.detail\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {
+            "value": "\n```python\nimport django.db.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "UpdateView",
+        "importPath": "django.views.generic.edit",
+        "description": "django.views.generic.edit",
+        "isExtraImport": true,
+        "detail": "django.views.generic.edit",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic.edit\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic.edit",
+        "description": "django.views.generic.edit",
+        "isExtraImport": true,
+        "detail": "django.views.generic.edit",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic.edit\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http.response",
+        "description": "django.http.response",
+        "isExtraImport": true,
+        "detail": "django.http.response",
+        "documentation": {
+            "value": "\n```python\nimport django.http.response\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BranchSerializer",
+        "importPath": "college.myserializer",
+        "description": "college.myserializer",
+        "isExtraImport": true,
+        "detail": "college.myserializer",
+        "documentation": {
+            "value": "\n```python\nimport college.myserializer\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "NoticeSerializer",
+        "importPath": "college.myserializer",
+        "description": "college.myserializer",
+        "isExtraImport": true,
+        "detail": "college.myserializer",
+        "documentation": {
+            "value": "\n```python\nimport college.myserializer\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {
+            "value": "\n```python\nimport os\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {
+            "value": "\n```python\nimport django.conf.urls.static\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "settings",
+        "importPath": "DjFinal",
+        "description": "DjFinal",
+        "isExtraImport": true,
+        "detail": "DjFinal",
+        "documentation": {
+            "value": "\n```python\nimport DjFinal\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.wsgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {
+            "value": "\n```python\nimport sys\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "college.migrations.0001_initial",
+        "description": "college.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Notice',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('subject', models.CharField(max_length=100)),",
+        "detail": "college.migrations.0001_initial",
+        "documentation": {
+            "value": "\n```python\nfrom college.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Notice',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('subject', models.CharField(max_length=100)),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "college.migrations.0002_auto_20190710_1704",
+        "description": "college.migrations.0002_auto_20190710_1704",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('college', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Branch',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100)),",
+        "detail": "college.migrations.0002_auto_20190710_1704",
+        "documentation": {
+            "value": "\n```python\nfrom college.migrations.0002_auto_20190710_1704 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('college', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Branch',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100)),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "college.migrations.0003_profile",
+        "description": "college.migrations.0003_profile",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('college', '0002_auto_20190710_1704'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Profile',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "college.migrations.0003_profile",
+        "documentation": {
+            "value": "\n```python\nfrom college.migrations.0003_profile import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('college', '0002_auto_20190710_1704'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Profile',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "college.migrations.0004_profile_sem",
+        "description": "college.migrations.0004_profile_sem",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('college', '0003_profile'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='profile',\n            name='sem',\n            field=models.IntegerField(choices=[(1, 1), (2, 2), (3, 3), (4, 4), (5, 5), (6, 6), (7, 7), (8, 8)], default=1),\n        ),",
+        "detail": "college.migrations.0004_profile_sem",
+        "documentation": {
+            "value": "\n```python\nfrom college.migrations.0004_profile_sem import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('college', '0003_profile'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='profile',\n            name='sem',\n            field=models.IntegerField(choices=[(1, 1), (2, 2), (3, 3), (4, 4), (5, 5), (6, 6), (7, 7), (8, 8)], default=1),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "college.migrations.0005_auto_20190711_1703",
+        "description": "college.migrations.0005_auto_20190711_1703",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('college', '0004_profile_sem'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='profile',\n            name='marks_10',\n            field=models.FloatField(default=0, validators=[django.core.validators.MinValueValidator(0), django.core.validators.MaxValueValidator(100)]),\n        ),",
+        "detail": "college.migrations.0005_auto_20190711_1703",
+        "documentation": {
+            "value": "\n```python\nfrom college.migrations.0005_auto_20190711_1703 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('college', '0004_profile_sem'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='profile',\n            name='marks_10',\n            field=models.FloatField(default=0, validators=[django.core.validators.MinValueValidator(0), django.core.validators.MaxValueValidator(100)]),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "college.migrations.0006_auto_20190711_1705",
+        "description": "college.migrations.0006_auto_20190711_1705",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('college', '0005_auto_20190711_1703'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='profile',\n            name='phone_no',\n            field=models.CharField(max_length=20, null=True, validators=[django.core.validators.RegexValidator('^0?[5-9]{1}\\\\d{9}$')]),\n        ),",
+        "detail": "college.migrations.0006_auto_20190711_1705",
+        "documentation": {
+            "value": "\n```python\nfrom college.migrations.0006_auto_20190711_1705 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('college', '0005_auto_20190711_1703'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='profile',\n            name='phone_no',\n            field=models.CharField(max_length=20, null=True, validators=[django.core.validators.RegexValidator('^0?[5-9]{1}\\\\d{9}$')]),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "college.migrations.0007_auto_20190711_1706",
+        "description": "college.migrations.0007_auto_20190711_1706",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('college', '0006_auto_20190711_1705'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='profile',\n            name='email',\n            field=models.EmailField(max_length=254, null=True),\n        ),",
+        "detail": "college.migrations.0007_auto_20190711_1706",
+        "documentation": {
+            "value": "\n```python\nfrom college.migrations.0007_auto_20190711_1706 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('college', '0006_auto_20190711_1705'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='profile',\n            name='email',\n            field=models.EmailField(max_length=254, null=True),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "college.migrations.0008_profile_myimg",
+        "description": "college.migrations.0008_profile_myimg",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('college', '0007_auto_20190711_1706'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='profile',\n            name='myimg',\n            field=models.ImageField(null=True, upload_to='images\\\\'),\n        ),",
+        "detail": "college.migrations.0008_profile_myimg",
+        "documentation": {
+            "value": "\n```python\nfrom college.migrations.0008_profile_myimg import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('college', '0007_auto_20190711_1706'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='profile',\n            name='myimg',\n            field=models.ImageField(null=True, upload_to='images\\\\'),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "college.migrations.0009_auto_20190711_1716",
+        "description": "college.migrations.0009_auto_20190711_1716",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('college', '0008_profile_myimg'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='profile',\n            name='myresume',\n            field=models.FileField(blank=True, null=True, upload_to='docs//'),\n        ),",
+        "detail": "college.migrations.0009_auto_20190711_1716",
+        "documentation": {
+            "value": "\n```python\nfrom college.migrations.0009_auto_20190711_1716 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('college', '0008_profile_myimg'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='profile',\n            name='myresume',\n            field=models.FileField(blank=True, null=True, upload_to='docs//'),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "college.migrations.0010_question",
+        "description": "college.migrations.0010_question",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('college', '0009_auto_20190711_1716'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Question',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "college.migrations.0010_question",
+        "documentation": {
+            "value": "\n```python\nfrom college.migrations.0010_question import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('college', '0009_auto_20190711_1716'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Question',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "NoticeAdmin",
+        "kind": 6,
+        "importPath": "college.admin",
+        "description": "college.admin",
+        "peekOfCode": "class NoticeAdmin(ModelAdmin):\n    list_display = [\"subject\", \"cr_date\"]\n    search_fields = [\"subject\", \"msg\"]\n    list_filter = [\"cr_date\", \"branch\"]\nadmin.site.register(Notice, NoticeAdmin)\nadmin.site.register(Branch)\nadmin.site.register(Profile)\nclass QuestionAdmin(ModelAdmin):\n    list_display = [\"subject\", \"cr_date\"]\n    search_fields = [\"subject\", \"msg\"]",
+        "detail": "college.admin",
+        "documentation": {
+            "value": "\n```python\nfrom college.admin import NoticeAdmin\n```\n\n```python\n\n\n```\n\n```python\nclass NoticeAdmin(ModelAdmin):\n    list_display = [\"subject\", \"cr_date\"]\n    search_fields = [\"subject\", \"msg\"]\n    list_filter = [\"cr_date\", \"branch\"]\nadmin.site.register(Notice, NoticeAdmin)\nadmin.site.register(Branch)\nadmin.site.register(Profile)\nclass QuestionAdmin(ModelAdmin):\n    list_display = [\"subject\", \"cr_date\"]\n    search_fields = [\"subject\", \"msg\"]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "QuestionAdmin",
+        "kind": 6,
+        "importPath": "college.admin",
+        "description": "college.admin",
+        "peekOfCode": "class QuestionAdmin(ModelAdmin):\n    list_display = [\"subject\", \"cr_date\"]\n    search_fields = [\"subject\", \"msg\"]\n    list_filter = [\"cr_date\", \"user\"]\nadmin.site.register(Question, QuestionAdmin)",
+        "detail": "college.admin",
+        "documentation": {
+            "value": "\n```python\nfrom college.admin import QuestionAdmin\n```\n\n```python\n\n\n```\n\n```python\nclass QuestionAdmin(ModelAdmin):\n    list_display = [\"subject\", \"cr_date\"]\n    search_fields = [\"subject\", \"msg\"]\n    list_filter = [\"cr_date\", \"user\"]\nadmin.site.register(Question, QuestionAdmin)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CollegeConfig",
+        "kind": 6,
+        "importPath": "college.apps",
+        "description": "college.apps",
+        "peekOfCode": "class CollegeConfig(AppConfig):\n    name = 'college'\n    def ready(self):\n        import college.mysignals",
+        "detail": "college.apps",
+        "documentation": {
+            "value": "\n```python\nfrom college.apps import CollegeConfig\n```\n\n```python\n\n\n```\n\n```python\nclass CollegeConfig(AppConfig):\n    name = 'college'\n    def ready(self):\n        import college.mysignals\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Branch",
+        "kind": 6,
+        "importPath": "college.models",
+        "description": "college.models",
+        "peekOfCode": "class Branch(models.Model):\n    name = models.CharField(max_length = 100)\n    hod = models.CharField(max_length = 100)\n    def __str__(self):\n        return \"%s (%s)\" % (self.name, self.hod)\nclass Notice(models.Model):\n    subject = models.CharField(max_length = 100)\n    msg = models.TextField()\n    cr_date = models.DateTimeField(auto_now_add=True)\n    branch = models.ForeignKey(to=Branch, on_delete=CASCADE, null=True, blank=True)",
+        "detail": "college.models",
+        "documentation": {
+            "value": "\n```python\nfrom college.models import Branch\n```\n\n```python\n\n\n```\n\n```python\nclass Branch(models.Model):\n    name = models.CharField(max_length = 100)\n    hod = models.CharField(max_length = 100)\n    def __str__(self):\n        return \"%s (%s)\" % (self.name, self.hod)\nclass Notice(models.Model):\n    subject = models.CharField(max_length = 100)\n    msg = models.TextField()\n    cr_date = models.DateTimeField(auto_now_add=True)\n    branch = models.ForeignKey(to=Branch, on_delete=CASCADE, null=True, blank=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Notice",
+        "kind": 6,
+        "importPath": "college.models",
+        "description": "college.models",
+        "peekOfCode": "class Notice(models.Model):\n    subject = models.CharField(max_length = 100)\n    msg = models.TextField()\n    cr_date = models.DateTimeField(auto_now_add=True)\n    branch = models.ForeignKey(to=Branch, on_delete=CASCADE, null=True, blank=True)\nclass Profile(models.Model):\n    user = models.OneToOneField(to=User, on_delete=CASCADE)\n    branch = models.ForeignKey(to=Branch, on_delete=CASCADE, null=True, blank=True)\n    sem = models.IntegerField(default=1,  choices=((1,1), (2,2), (3,3), (4,4), (5,5), (6,6), (7,7), (8,8)))\n    marks_10 = models.FloatField(default=0, validators=[MinValueValidator(0), MaxValueValidator(100)])",
+        "detail": "college.models",
+        "documentation": {
+            "value": "\n```python\nfrom college.models import Notice\n```\n\n```python\n\n\n```\n\n```python\nclass Notice(models.Model):\n    subject = models.CharField(max_length = 100)\n    msg = models.TextField()\n    cr_date = models.DateTimeField(auto_now_add=True)\n    branch = models.ForeignKey(to=Branch, on_delete=CASCADE, null=True, blank=True)\nclass Profile(models.Model):\n    user = models.OneToOneField(to=User, on_delete=CASCADE)\n    branch = models.ForeignKey(to=Branch, on_delete=CASCADE, null=True, blank=True)\n    sem = models.IntegerField(default=1,  choices=((1,1), (2,2), (3,3), (4,4), (5,5), (6,6), (7,7), (8,8)))\n    marks_10 = models.FloatField(default=0, validators=[MinValueValidator(0), MaxValueValidator(100)])\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Profile",
+        "kind": 6,
+        "importPath": "college.models",
+        "description": "college.models",
+        "peekOfCode": "class Profile(models.Model):\n    user = models.OneToOneField(to=User, on_delete=CASCADE)\n    branch = models.ForeignKey(to=Branch, on_delete=CASCADE, null=True, blank=True)\n    sem = models.IntegerField(default=1,  choices=((1,1), (2,2), (3,3), (4,4), (5,5), (6,6), (7,7), (8,8)))\n    marks_10 = models.FloatField(default=0, validators=[MinValueValidator(0), MaxValueValidator(100)])\n    marks_12 = models.FloatField(default=0, validators=[MinValueValidator(0), MaxValueValidator(100)])\n    marks_aggr = models.FloatField(default=0, validators=[MinValueValidator(0), MaxValueValidator(100)])\n    rn = models.IntegerField(validators=[MinValueValidator(1)], null=True)\n    phone_no = models.CharField(validators=[RegexValidator(\"^0?[5-9]{1}\\d{9}$\")]  ,max_length=20, null = True)\n    email = models.EmailField(null=True)",
+        "detail": "college.models",
+        "documentation": {
+            "value": "\n```python\nfrom college.models import Profile\n```\n\n```python\n\n\n```\n\n```python\nclass Profile(models.Model):\n    user = models.OneToOneField(to=User, on_delete=CASCADE)\n    branch = models.ForeignKey(to=Branch, on_delete=CASCADE, null=True, blank=True)\n    sem = models.IntegerField(default=1,  choices=((1,1), (2,2), (3,3), (4,4), (5,5), (6,6), (7,7), (8,8)))\n    marks_10 = models.FloatField(default=0, validators=[MinValueValidator(0), MaxValueValidator(100)])\n    marks_12 = models.FloatField(default=0, validators=[MinValueValidator(0), MaxValueValidator(100)])\n    marks_aggr = models.FloatField(default=0, validators=[MinValueValidator(0), MaxValueValidator(100)])\n    rn = models.IntegerField(validators=[MinValueValidator(1)], null=True)\n    phone_no = models.CharField(validators=[RegexValidator(\"^0?[5-9]{1}\\d{9}$\")]  ,max_length=20, null = True)\n    email = models.EmailField(null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Question",
+        "kind": 6,
+        "importPath": "college.models",
+        "description": "college.models",
+        "peekOfCode": "class Question(models.Model):\n    subject = models.CharField(max_length = 100)\n    msg = models.TextField()\n    cr_date = models.DateTimeField(auto_now_add=True)\n    user = models.ForeignKey(to=User, on_delete=CASCADE, null=True, blank=True)",
+        "detail": "college.models",
+        "documentation": {
+            "value": "\n```python\nfrom college.models import Question\n```\n\n```python\n\n\n```\n\n```python\nclass Question(models.Model):\n    subject = models.CharField(max_length = 100)\n    msg = models.TextField()\n    cr_date = models.DateTimeField(auto_now_add=True)\n    user = models.ForeignKey(to=User, on_delete=CASCADE, null=True, blank=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BranchSerializer",
+        "kind": 6,
+        "importPath": "college.myserializer",
+        "description": "college.myserializer",
+        "peekOfCode": "class BranchSerializer(serializers.HyperlinkedModelSerializer):\n    class Meta:\n        model = Branch\n        fields = \"__all__\"\nclass NoticeSerializer(serializers.HyperlinkedModelSerializer):\n    class Meta:\n        model = Notice\n        fields = [\"subject\", \"msg\"]",
+        "detail": "college.myserializer",
+        "documentation": {
+            "value": "\n```python\nfrom college.myserializer import BranchSerializer\n```\n\n```python\n\n\n```\n\n```python\nclass BranchSerializer(serializers.HyperlinkedModelSerializer):\n    class Meta:\n        model = Branch\n        fields = \"__all__\"\nclass NoticeSerializer(serializers.HyperlinkedModelSerializer):\n    class Meta:\n        model = Notice\n        fields = [\"subject\", \"msg\"]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "NoticeSerializer",
+        "kind": 6,
+        "importPath": "college.myserializer",
+        "description": "college.myserializer",
+        "peekOfCode": "class NoticeSerializer(serializers.HyperlinkedModelSerializer):\n    class Meta:\n        model = Notice\n        fields = [\"subject\", \"msg\"]",
+        "detail": "college.myserializer",
+        "documentation": {
+            "value": "\n```python\nfrom college.myserializer import NoticeSerializer\n```\n\n```python\n\n\n```\n\n```python\nclass NoticeSerializer(serializers.HyperlinkedModelSerializer):\n    class Meta:\n        model = Notice\n        fields = [\"subject\", \"msg\"]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "save_profile",
+        "kind": 2,
+        "importPath": "college.mysignals",
+        "description": "college.mysignals",
+        "peekOfCode": "def save_profile(sender, instance, created, **kwarg):\n    if created:\n        Profile.objects.create(user=instance)",
+        "detail": "college.mysignals",
+        "documentation": {
+            "value": "\n```python\nfrom college.mysignals import save_profile\n```\n\n```python\n\n\n```\n\n```python\ndef save_profile(sender, instance, created, **kwarg):\n    if created:\n        Profile.objects.create(user=instance)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "college.urls",
+        "description": "college.urls",
+        "peekOfCode": "router = routers.DefaultRouter()\nrouter.register(r'branch', views.BranchViewSet)\nrouter.register(r'notice', views.NoticeViewSet)\nurlpatterns = [\n    path('home/', views.HomeView.as_view()),\n    path('mylist/', views.MyList.as_view()),\n    path('notice/', views.NoticeListView.as_view()),\n    path('notice/<int:pk>', views.NoticeDetailView.as_view()),\n    path('profile/edit/<int:pk>',\n         views.ProfileUpdate.as_view(success_url=\"/college/home\")),",
+        "detail": "college.urls",
+        "documentation": {
+            "value": "\n```python\nfrom college.urls import router\n```\n\n```python\n\n\n```\n\n```python\nrouter = routers.DefaultRouter()\nrouter.register(r'branch', views.BranchViewSet)\nrouter.register(r'notice', views.NoticeViewSet)\nurlpatterns = [\n    path('home/', views.HomeView.as_view()),\n    path('mylist/', views.MyList.as_view()),\n    path('notice/', views.NoticeListView.as_view()),\n    path('notice/<int:pk>', views.NoticeDetailView.as_view()),\n    path('profile/edit/<int:pk>',\n         views.ProfileUpdate.as_view(success_url=\"/college/home\")),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "college.urls",
+        "description": "college.urls",
+        "peekOfCode": "urlpatterns = [\n    path('home/', views.HomeView.as_view()),\n    path('mylist/', views.MyList.as_view()),\n    path('notice/', views.NoticeListView.as_view()),\n    path('notice/<int:pk>', views.NoticeDetailView.as_view()),\n    path('profile/edit/<int:pk>',\n         views.ProfileUpdate.as_view(success_url=\"/college/home\")),\n    path('question/create/', views.QuestionCreate.as_view(success_url=\"/college/home\")),\n    path(r'api/', include(router.urls)),\n    path(r'api-token-auth', obtain_jwt_token),",
+        "detail": "college.urls",
+        "documentation": {
+            "value": "\n```python\nfrom college.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('home/', views.HomeView.as_view()),\n    path('mylist/', views.MyList.as_view()),\n    path('notice/', views.NoticeListView.as_view()),\n    path('notice/<int:pk>', views.NoticeDetailView.as_view()),\n    path('profile/edit/<int:pk>',\n         views.ProfileUpdate.as_view(success_url=\"/college/home\")),\n    path('question/create/', views.QuestionCreate.as_view(success_url=\"/college/home\")),\n    path(r'api/', include(router.urls)),\n    path(r'api-token-auth', obtain_jwt_token),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "HomeView",
+        "kind": 6,
+        "importPath": "college.views",
+        "description": "college.views",
+        "peekOfCode": "class HomeView(TemplateView):\n    template_name = \"college/index.html\"\n@method_decorator(login_required, name=\"dispatch\")\nclass NoticeListView(ListView):\n    model = Notice\n    def get_queryset(self):\n        si = self.request.GET.get(\"si\")\n        if si == None:\n            si = \"\"\n        if self.request.user.is_superuser:",
+        "detail": "college.views",
+        "documentation": {
+            "value": "\n```python\nfrom college.views import HomeView\n```\n\n```python\n\n\n```\n\n```python\nclass HomeView(TemplateView):\n    template_name = \"college/index.html\"\n@method_decorator(login_required, name=\"dispatch\")\nclass NoticeListView(ListView):\n    model = Notice\n    def get_queryset(self):\n        si = self.request.GET.get(\"si\")\n        if si == None:\n            si = \"\"\n        if self.request.user.is_superuser:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "NoticeListView",
+        "kind": 6,
+        "importPath": "college.views",
+        "description": "college.views",
+        "peekOfCode": "class NoticeListView(ListView):\n    model = Notice\n    def get_queryset(self):\n        si = self.request.GET.get(\"si\")\n        if si == None:\n            si = \"\"\n        if self.request.user.is_superuser:\n            return Notice.objects.filter(Q(subject__icontains=si) | Q(msg__icontains=si)).order_by(\"-id\")\n        else:\n            return Notice.objects.filter(Q(branch=self.request.user.profile.branch) | Q(branch__isnull=True)).filter(Q(subject__icontains=si) | Q(msg__icontains=si)).order_by(\"-id\")",
+        "detail": "college.views",
+        "documentation": {
+            "value": "\n```python\nfrom college.views import NoticeListView\n```\n\n```python\n\n\n```\n\n```python\nclass NoticeListView(ListView):\n    model = Notice\n    def get_queryset(self):\n        si = self.request.GET.get(\"si\")\n        if si == None:\n            si = \"\"\n        if self.request.user.is_superuser:\n            return Notice.objects.filter(Q(subject__icontains=si) | Q(msg__icontains=si)).order_by(\"-id\")\n        else:\n            return Notice.objects.filter(Q(branch=self.request.user.profile.branch) | Q(branch__isnull=True)).filter(Q(subject__icontains=si) | Q(msg__icontains=si)).order_by(\"-id\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "NoticeDetailView",
+        "kind": 6,
+        "importPath": "college.views",
+        "description": "college.views",
+        "peekOfCode": "class NoticeDetailView(DetailView):\n    model = Notice\n@method_decorator(login_required, name=\"dispatch\")\nclass ProfileUpdate(UpdateView):\n    model = Profile\n    fields = [\"branch\", \"sem\", \"marks_10\", \"marks_12\", \"marks_aggr\",\n              \"rn\", \"phone_no\", \"email\", \"skills\", \"myimg\", \"myresume\"]\n@method_decorator(login_required, name=\"dispatch\")\nclass QuestionCreate(CreateView):\n    model = Question",
+        "detail": "college.views",
+        "documentation": {
+            "value": "\n```python\nfrom college.views import NoticeDetailView\n```\n\n```python\n\n\n```\n\n```python\nclass NoticeDetailView(DetailView):\n    model = Notice\n@method_decorator(login_required, name=\"dispatch\")\nclass ProfileUpdate(UpdateView):\n    model = Profile\n    fields = [\"branch\", \"sem\", \"marks_10\", \"marks_12\", \"marks_aggr\",\n              \"rn\", \"phone_no\", \"email\", \"skills\", \"myimg\", \"myresume\"]\n@method_decorator(login_required, name=\"dispatch\")\nclass QuestionCreate(CreateView):\n    model = Question\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ProfileUpdate",
+        "kind": 6,
+        "importPath": "college.views",
+        "description": "college.views",
+        "peekOfCode": "class ProfileUpdate(UpdateView):\n    model = Profile\n    fields = [\"branch\", \"sem\", \"marks_10\", \"marks_12\", \"marks_aggr\",\n              \"rn\", \"phone_no\", \"email\", \"skills\", \"myimg\", \"myresume\"]\n@method_decorator(login_required, name=\"dispatch\")\nclass QuestionCreate(CreateView):\n    model = Question\n    fields = [\"subject\", \"msg\"]\n    def form_valid(self, form):\n        self.object = form.save()",
+        "detail": "college.views",
+        "documentation": {
+            "value": "\n```python\nfrom college.views import ProfileUpdate\n```\n\n```python\n\n\n```\n\n```python\nclass ProfileUpdate(UpdateView):\n    model = Profile\n    fields = [\"branch\", \"sem\", \"marks_10\", \"marks_12\", \"marks_aggr\",\n              \"rn\", \"phone_no\", \"email\", \"skills\", \"myimg\", \"myresume\"]\n@method_decorator(login_required, name=\"dispatch\")\nclass QuestionCreate(CreateView):\n    model = Question\n    fields = [\"subject\", \"msg\"]\n    def form_valid(self, form):\n        self.object = form.save()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "QuestionCreate",
+        "kind": 6,
+        "importPath": "college.views",
+        "description": "college.views",
+        "peekOfCode": "class QuestionCreate(CreateView):\n    model = Question\n    fields = [\"subject\", \"msg\"]\n    def form_valid(self, form):\n        self.object = form.save()\n        self.object.user = self.request.user\n        self.object.save()\n        return HttpResponseRedirect(self.get_success_url())\n@method_decorator(login_required, name='dispatch')\nclass MyList(TemplateView):",
+        "detail": "college.views",
+        "documentation": {
+            "value": "\n```python\nfrom college.views import QuestionCreate\n```\n\n```python\n\n\n```\n\n```python\nclass QuestionCreate(CreateView):\n    model = Question\n    fields = [\"subject\", \"msg\"]\n    def form_valid(self, form):\n        self.object = form.save()\n        self.object.user = self.request.user\n        self.object.save()\n        return HttpResponseRedirect(self.get_success_url())\n@method_decorator(login_required, name='dispatch')\nclass MyList(TemplateView):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MyList",
+        "kind": 6,
+        "importPath": "college.views",
+        "description": "college.views",
+        "peekOfCode": "class MyList(TemplateView):\n    template_name = \"college/mylist.html\"\n    def get_context_data(self, **kwargs):\n        context = TemplateView.get_context_data(self, **kwargs)\n        context[\"notices\"] = Notice.objects.all().order_by('-id')[:3]\n        context[\"questions\"] = Question.objects.all().order_by('-id')[:3]\n        return context\nclass BranchViewSet(viewsets.ModelViewSet):\n    queryset = Branch.objects.all().order_by('-id')\n    serializer_class = BranchSerializer",
+        "detail": "college.views",
+        "documentation": {
+            "value": "\n```python\nfrom college.views import MyList\n```\n\n```python\n\n\n```\n\n```python\nclass MyList(TemplateView):\n    template_name = \"college/mylist.html\"\n    def get_context_data(self, **kwargs):\n        context = TemplateView.get_context_data(self, **kwargs)\n        context[\"notices\"] = Notice.objects.all().order_by('-id')[:3]\n        context[\"questions\"] = Question.objects.all().order_by('-id')[:3]\n        return context\nclass BranchViewSet(viewsets.ModelViewSet):\n    queryset = Branch.objects.all().order_by('-id')\n    serializer_class = BranchSerializer\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BranchViewSet",
+        "kind": 6,
+        "importPath": "college.views",
+        "description": "college.views",
+        "peekOfCode": "class BranchViewSet(viewsets.ModelViewSet):\n    queryset = Branch.objects.all().order_by('-id')\n    serializer_class = BranchSerializer\nclass NoticeViewSet(viewsets.ModelViewSet):\n    queryset = Notice.objects.all().order_by('-id')\n    serializer_class = NoticeSerializer\n    # to search with url ?si='xyz'\n    def get_queryset(self):\n        si = self.request.GET.get(\"si\")\n        if si == None:",
+        "detail": "college.views",
+        "documentation": {
+            "value": "\n```python\nfrom college.views import BranchViewSet\n```\n\n```python\n\n\n```\n\n```python\nclass BranchViewSet(viewsets.ModelViewSet):\n    queryset = Branch.objects.all().order_by('-id')\n    serializer_class = BranchSerializer\nclass NoticeViewSet(viewsets.ModelViewSet):\n    queryset = Notice.objects.all().order_by('-id')\n    serializer_class = NoticeSerializer\n    # to search with url ?si='xyz'\n    def get_queryset(self):\n        si = self.request.GET.get(\"si\")\n        if si == None:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "NoticeViewSet",
+        "kind": 6,
+        "importPath": "college.views",
+        "description": "college.views",
+        "peekOfCode": "class NoticeViewSet(viewsets.ModelViewSet):\n    queryset = Notice.objects.all().order_by('-id')\n    serializer_class = NoticeSerializer\n    # to search with url ?si='xyz'\n    def get_queryset(self):\n        si = self.request.GET.get(\"si\")\n        if si == None:\n            si = \"\"\n        if self.request.user.is_superuser:\n            return Notice.objects.filter(Q(subject__icontains=si) | Q(msg__icontains=si)).order_by(\"-id\")",
+        "detail": "college.views",
+        "documentation": {
+            "value": "\n```python\nfrom college.views import NoticeViewSet\n```\n\n```python\n\n\n```\n\n```python\nclass NoticeViewSet(viewsets.ModelViewSet):\n    queryset = Notice.objects.all().order_by('-id')\n    serializer_class = NoticeSerializer\n    # to search with url ?si='xyz'\n    def get_queryset(self):\n        si = self.request.GET.get(\"si\")\n        if si == None:\n            si = \"\"\n        if self.request.user.is_superuser:\n            return Notice.objects.filter(Q(subject__icontains=si) | Q(msg__icontains=si)).order_by(\"-id\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "default_app_config",
+        "kind": 5,
+        "importPath": "college.__init__",
+        "description": "college.__init__",
+        "peekOfCode": "default_app_config = 'college.apps.CollegeConfig'",
+        "detail": "college.__init__",
+        "documentation": {
+            "value": "\n```python\nfrom college.__init__ import default_app_config\n```\n\n```python\n\n\n```\n\n```python\ndefault_app_config = 'college.apps.CollegeConfig'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'd&vhj@poofo+7!&)9347^b0v*!m+!5&7l7y%qq)im+o@%#k@jm'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import BASE_DIR\n```\n\n```python\n\n\n```\n\n```python\nBASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'd&vhj@poofo+7!&)9347^b0v*!m+!5&7l7y%qq)im+o@%#k@jm'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "SECRET_KEY = 'd&vhj@poofo+7!&)9347^b0v*!m+!5&7l7y%qq)im+o@%#k@jm'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import SECRET_KEY\n```\n\n```python\n\n\n```\n\n```python\nSECRET_KEY = 'd&vhj@poofo+7!&)9347^b0v*!m+!5&7l7y%qq)im+o@%#k@jm'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import DEBUG\n```\n\n```python\n\n\n```\n\n```python\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'registration',",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import ALLOWED_HOSTS\n```\n\n```python\n\n\n```\n\n```python\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'registration',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'registration',\n    'college',\n    'crispy_forms', ",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import INSTALLED_APPS\n```\n\n```python\n\n\n```\n\n```python\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'registration',\n    'college',\n    'crispy_forms', \n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'DjFinal.urls'",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import MIDDLEWARE\n```\n\n```python\n\n\n```\n\n```python\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'DjFinal.urls'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "ROOT_URLCONF = 'DjFinal.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import ROOT_URLCONF\n```\n\n```python\n\n\n```\n\n```python\nROOT_URLCONF = 'DjFinal.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import TEMPLATES\n```\n\n```python\n\n\n```\n\n```python\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'DjFinal.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/2.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import WSGI_APPLICATION\n```\n\n```python\n\n\n```\n\n```python\nWSGI_APPLICATION = 'DjFinal.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/2.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/2.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import DATABASES\n```\n\n```python\n\n\n```\n\n```python\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/2.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import AUTH_PASSWORD_VALIDATORS\n```\n\n```python\n\n\n```\n\n```python\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS=3\nEMAIL_HOST= 'smtp.gmail.com'",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import LANGUAGE_CODE\n```\n\n```python\n\n\n```\n\n```python\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS=3\nEMAIL_HOST= 'smtp.gmail.com'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "TIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS=3\nEMAIL_HOST= 'smtp.gmail.com'\nEMAIL_HOST_USER= 'ec.smtp.test2@gmail.com'",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import TIME_ZONE\n```\n\n```python\n\n\n```\n\n```python\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS=3\nEMAIL_HOST= 'smtp.gmail.com'\nEMAIL_HOST_USER= 'ec.smtp.test2@gmail.com'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS=3\nEMAIL_HOST= 'smtp.gmail.com'\nEMAIL_HOST_USER= 'ec.smtp.test2@gmail.com'\nEMAIL_HOST_PASSWORD= 'surajsahu'",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import USE_I18N\n```\n\n```python\n\n\n```\n\n```python\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS=3\nEMAIL_HOST= 'smtp.gmail.com'\nEMAIL_HOST_USER= 'ec.smtp.test2@gmail.com'\nEMAIL_HOST_PASSWORD= 'surajsahu'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS=3\nEMAIL_HOST= 'smtp.gmail.com'\nEMAIL_HOST_USER= 'ec.smtp.test2@gmail.com'\nEMAIL_HOST_PASSWORD= 'surajsahu'\nEMAIL_PORT= 587",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import USE_L10N\n```\n\n```python\n\n\n```\n\n```python\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS=3\nEMAIL_HOST= 'smtp.gmail.com'\nEMAIL_HOST_USER= 'ec.smtp.test2@gmail.com'\nEMAIL_HOST_PASSWORD= 'surajsahu'\nEMAIL_PORT= 587\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS=3\nEMAIL_HOST= 'smtp.gmail.com'\nEMAIL_HOST_USER= 'ec.smtp.test2@gmail.com'\nEMAIL_HOST_PASSWORD= 'surajsahu'\nEMAIL_PORT= 587\nEMAIL_USE_TLS= True",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import USE_TZ\n```\n\n```python\n\n\n```\n\n```python\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS=3\nEMAIL_HOST= 'smtp.gmail.com'\nEMAIL_HOST_USER= 'ec.smtp.test2@gmail.com'\nEMAIL_HOST_PASSWORD= 'surajsahu'\nEMAIL_PORT= 587\nEMAIL_USE_TLS= True\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS=3\nEMAIL_HOST= 'smtp.gmail.com'\nEMAIL_HOST_USER= 'ec.smtp.test2@gmail.com'\nEMAIL_HOST_PASSWORD= 'surajsahu'\nEMAIL_PORT= 587\nEMAIL_USE_TLS= True\nLOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import STATIC_URL\n```\n\n```python\n\n\n```\n\n```python\nSTATIC_URL = '/static/'\nACCOUNT_ACTIVATION_DAYS=3\nEMAIL_HOST= 'smtp.gmail.com'\nEMAIL_HOST_USER= 'ec.smtp.test2@gmail.com'\nEMAIL_HOST_PASSWORD= 'surajsahu'\nEMAIL_PORT= 587\nEMAIL_USE_TLS= True\nLOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/' \nREST_FRAMEWORK = {\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',    \n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',\n    ],\n   'DEFAULT_AUTHENTICATION_CLASSES': (",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import LOGIN_REDIRECT_URL\n```\n\n```python\n\n\n```\n\n```python\nLOGIN_REDIRECT_URL = \"/\"\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/' \nREST_FRAMEWORK = {\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',    \n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',\n    ],\n   'DEFAULT_AUTHENTICATION_CLASSES': (\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PROJECT_ROOT",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "PROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/' \nREST_FRAMEWORK = {\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',    \n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',\n    ],\n   'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_jwt.authentication.JSONWebTokenAuthentication',",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import PROJECT_ROOT\n```\n\n```python\n\n\n```\n\n```python\nPROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/' \nREST_FRAMEWORK = {\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',    \n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',\n    ],\n   'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_jwt.authentication.JSONWebTokenAuthentication',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "MEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/' \nREST_FRAMEWORK = {\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',    \n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',\n    ],\n   'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_jwt.authentication.JSONWebTokenAuthentication',\n        'rest_framework.authentication.SessionAuthentication',",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import MEDIA_ROOT\n```\n\n```python\n\n\n```\n\n```python\nMEDIA_ROOT = PROJECT_ROOT + '/static/'\nMEDIA_URL = '/media/' \nREST_FRAMEWORK = {\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',    \n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',\n    ],\n   'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_jwt.authentication.JSONWebTokenAuthentication',\n        'rest_framework.authentication.SessionAuthentication',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "MEDIA_URL = '/media/' \nREST_FRAMEWORK = {\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',    \n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',\n    ],\n   'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_jwt.authentication.JSONWebTokenAuthentication',\n        'rest_framework.authentication.SessionAuthentication',\n    ),",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import MEDIA_URL\n```\n\n```python\n\n\n```\n\n```python\nMEDIA_URL = '/media/' \nREST_FRAMEWORK = {\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',    \n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',\n    ],\n   'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_jwt.authentication.JSONWebTokenAuthentication',\n        'rest_framework.authentication.SessionAuthentication',\n    ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "DjFinal.settings",
+        "description": "DjFinal.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',    \n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',\n    ],\n   'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_jwt.authentication.JSONWebTokenAuthentication',\n        'rest_framework.authentication.SessionAuthentication',\n    ),\n    'PAGE_SIZE': 2",
+        "detail": "DjFinal.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.settings import REST_FRAMEWORK\n```\n\n```python\n\n\n```\n\n```python\nREST_FRAMEWORK = {\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',    \n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',\n    ],\n   'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_jwt.authentication.JSONWebTokenAuthentication',\n        'rest_framework.authentication.SessionAuthentication',\n    ),\n    'PAGE_SIZE': 2\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "DjFinal.urls",
+        "description": "DjFinal.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('accounts/', include('registration.backends.default.urls')),                 \n    path('college/', include('college.urls')), \n    path('', RedirectView.as_view(url=\"college/\")),    \n] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "DjFinal.urls",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('accounts/', include('registration.backends.default.urls')),                 \n    path('college/', include('college.urls')), \n    path('', RedirectView.as_view(url=\"college/\")),    \n] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "DjFinal.wsgi",
+        "description": "DjFinal.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "DjFinal.wsgi",
+        "documentation": {
+            "value": "\n```python\nfrom DjFinal.wsgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_wsgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]
