@@ -1,3 +1,7 @@
+in urls.py of project
+
+
+
 from django.contrib import admin
 
 admin.site.site_header = 'My project'                    # default: "Django Administration"
