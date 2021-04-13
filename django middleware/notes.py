@@ -74,6 +74,9 @@ import django.shortcuts
 #   whenn we hit the the request..it will execute according to our given direction....while when we get he response ....we will get it by reverse order
 #   like the initiaalised one.
 
+# if we dont want to send the cursor to the next middleware or we want to get response from the middle middlware itself..then instead of using 
+# get_response(request) we can use HttpResponse..and the response in want....dont forget to import HttpResponse first.
+
 # middlewares hooks
 # special methods for class based middlewares(not used for function based views)
 
