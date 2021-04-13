@@ -69,6 +69,10 @@ import django.shortcuts
 
 # class.middlewares.Mymiddleware
 
+# flow of middleware running:
+#   for those with one time initiaalisation..they will execute in reverse direction than that of we specified in settings.py
+#   whenn we hit the the request..it will execute according to our given direction....while when we get he response ....we will get it by reverse order
+#   like the initiaalised one.
 
 # middlewares hooks
 # special methods for class based middlewares(not used for function based views)
@@ -92,11 +96,13 @@ import django.shortcuts
 # exception = it is an exception object raised  by view function
 
 
-# Note - middleware are run in reverse order during the response phase, which includes process execution. if an exception  middleware  returns a response, the process_exception methods of the middleware classes  above that middleware wont be called at all.
+# Note - middleware are run in reverse order during the response phase, which includes process execution. if an exception  middleware  returns a response, the 
+# process_exception methods of the middleware classes  above that middleware wont be called at all.
 
 
 # process_template_response(request, response)
-# this method is called just after the view  has finished  executing,if the response instance has  a render method,indicating that it  is  a templateresponse or equivalent.
+# this method is called just after the view  has finished  executing,if the response instance has  a render method,indicating that it  is  a templateresponse 
+# or equivalent.
 
 # it must return respnseobject  that implements a render method.
 
